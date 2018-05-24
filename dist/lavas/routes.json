@@ -1,0 +1,62 @@
+{
+    "mode": "history",
+    "base": "/",
+    "routes": [
+        {
+            "path": "/appshell",
+            "name": "appshell",
+            "meta": {}
+        },
+        {
+            "path": "/detail/:id",
+            "name": "detailId",
+            "meta": {}
+        },
+        {
+            "path": "/home",
+            "name": "home",
+            "meta": {}
+        },
+        {
+            "path": "/",
+            "name": "index",
+            "meta": {}
+        },
+        {
+            "path": "/login",
+            "name": "login",
+            "meta": {}
+        },
+        {
+            "path": "/music-info/:id",
+            "name": "musicInfoId",
+            "meta": {}
+        },
+        {
+            "path": "/myfriend",
+            "name": "myfriend",
+            "meta": {}
+        },
+        {
+            "path": "/play-list-info/:id",
+            "name": "playListInfoId",
+            "meta": {}
+        },
+        {
+            "path": "/search",
+            "name": "search",
+            "meta": {}
+        },
+        {
+            "path": "/user-info/:id",
+            "name": "userInfoId",
+            "meta": {}
+        },
+        {
+            "path": "/error",
+            "name": "error",
+            "meta": {},
+            "alias": "*"
+        }
+    ]
+}
