@@ -1,5 +1,5 @@
 {
-  "name": "appsh-project",
+  "name": "lavas-wyMusic",
   "version": "0.0.1",
   "description": "这是一个 Lavas PWA 项目",
   "author": "ljy19930131 <13161350223@163.com>",
@@ -42,5 +42,11 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
+  ],
+  "keywords": [
+    "lavas",
+    "wyMusic",
+    "PWA",
+    "VUE"
   ]
 }

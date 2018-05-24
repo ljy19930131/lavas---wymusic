@@ -1,6 +1,33 @@
-# appsh-project
+# lavas-wyMusic
 
-> 这是一个 Lavas PWA 项目
+> 这是一个为了学习 Lavas PWA 而写的demo。
+
+启动项目之前先安装 [lavas](https://lavas.baidu.com/) 和网易云音乐[网易云音乐API](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%E8%8E%B7%E5%8F%96%E9%9F%B3%E4%B9%90-url)
+
+    $ npm install lavas -g
+
+    $ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
+
+## 项目相关命令
+> 其实就是 lavas 命令
+
+
+``` bash
+# 安装工程依赖
+npm install
+
+# 在本地启动调试 server
+lavas dev
+
+# 打包
+lavas build
+
+# 启动编译后的代码，注意，需要在 dist 目录中启动
+cd dist
+lavas start
+
+```
+
 
 ## npm 相关命令
 
