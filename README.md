@@ -2,7 +2,7 @@
 
 > 这是一个为了学习 Lavas PWA 而写的demo。
 
-启动项目之前先安装 [lavas](https://lavas.baidu.com/) 和网易云音乐[网易云音乐API](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%E8%8E%B7%E5%8F%96%E9%9F%B3%E4%B9%90-url)
+启动项目之前先安装 [lavas](https://lavas.baidu.com/) 和 [网易云音乐API](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%E8%8E%B7%E5%8F%96%E9%9F%B3%E4%B9%90-url)
 
     $ npm install lavas -g
 
