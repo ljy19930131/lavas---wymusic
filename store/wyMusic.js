@@ -39,7 +39,7 @@ const GET_PERSONALIZED_MV = 'getPersonalizedMv';
 const GET_BANNER = 'getBanner';
 
 export const state = () => ({
-    userId: '1328283740',
+    userId: '',
     userInfo: '',
     ownerInfo: '',
     followList: '',

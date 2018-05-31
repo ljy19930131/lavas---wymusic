@@ -2,7 +2,7 @@
  * Created by ljy on 2018/5/14
  */
 // const BASE_URL = 'http://ip:3001';
-const BASE_URL = 'http://192.168.81.238:3001';
+const BASE_URL = 'http://192.168.81.102:3001';
 // const BASE_URL = 'http://192.168.68.87:3001';
 
 // 手机登录

@@ -48,8 +48,8 @@ export default {
         return {
             user: this.$route.params.type?'phone':'email',
             loading: false,
-            userName: this.$route.params.type?'13161350223':'13161350223@163.com',
-            password: this.$route.params.type?'199301':'ljy20100131',
+            userName: '',
+            password: '',
             isError: false,
         }
     },
